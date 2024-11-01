@@ -45,6 +45,11 @@ Summary: Initialized a population of Agents with exchanging energy mechanisms to
 - Science without Borders International Semifinalist
 - National Merit Semifinalist
 
+<h2> Certifications </h2>
+
+- Machine Learning Foundations Certificate, Cornell (2024)
+- Social-Behavioral-Educational Researcher Practices, CITI Program (2024)
+
 <h2> Contact </h2>
 
 **Email me** : julia_gu@brown.edu
