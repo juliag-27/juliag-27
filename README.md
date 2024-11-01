@@ -40,7 +40,7 @@ Summary: Initialized a population of Agents with exchanging energy mechanisms to
 
 <h2> Awards :star2: </h2>
 
-- Women in Data Science Conference: Student Lighting Speaker
+- Women in Data Science Conference: Student Lightning Speaker
 - Bloomberg BPuzzled @ Brown 3rd Place
 - Science without Borders International Semifinalist
 - National Merit Semifinalist
