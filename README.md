@@ -34,7 +34,7 @@ Coding environments:
 <h2> Projects :seedling: </h2>
 <h3> RedditBias: LLM Classification of Problematic Speech </h3>
 **(IN PROGRESS) **
-Summary: Preprocessed and vectorized 7,000+ examples of labelled text with Huggingface's BERT tokenizer, then trained a BERT large language model to identify sentences with bias (racial, sexually orientation-wise, gender-wise, religious-wise). Tools used: Google Colab, Python, Pandas, Pytorch, Huggingface Transformers library, Scikit-learn, Matplotlib
+Summary: Preprocessed and vectorized 7,000+ examples of labelled text with Pandas Dataframes and Huggingface's BERT tokenizer, trained a BERT large language model to classify sentences with bias (racial, sexual orientation-wise, gender-wise, religious-wise). Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
 
 <h3> World Happiness Report 2018: Lifespan Analysis </h3>
 Summary: Trained scikit-learn's Decision Tree and Linear Regressor models to predict the life expectancy of country populations with subjective features such as Life Ladder (1-10, how "satisfied" an individual is with their life), trust in government, and freedom. Analyzed the weights to identify Life Ladder, how satisfied one is with their life, correlates with lifespan. Tools used: Jupyter, Python, Pandas, Scikit-learn, Matplotlib
