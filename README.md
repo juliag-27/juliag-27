@@ -3,9 +3,11 @@
 I'm a student at Brown University looking to learn more about AI, machine learning, and data science. I'm an advocate for growth mindsets, leveraging opportunities, and creative thinking. Feel free to ask me about my current developments as a Break Through Tech fellow! Outside of classes, I'm excited about my research in cognitive neuroscience, LLM projects, and doing pottery with the Pottery @ Brown leadership team. My pronouns are she/her.
 <br>
 
+<h2> Tech Stack :desktop_computer: </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,pytorch,sklearn,matlab,vscode,bash,docker,github,idea)](https://skillicons.dev)
 
-<h2> Tech Stack :desktop_computer: </h2>
+
 Languages: 
 
 - Python (preferred)
