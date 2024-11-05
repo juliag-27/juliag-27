@@ -6,6 +6,7 @@ I'm a student at Brown University looking to learn more about AI, machine learni
 <h2> Tech Stack :desktop_computer: </h2>
 Languages: 
 
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css)](https://skillicons.dev)
 - Python (preferred)
 - Java
 - C++
