@@ -32,7 +32,7 @@ Coding environments:
 - Google Colab
 
 <h2> Projects :seedling: </h2>
-<h3> RedditBias: LLM Classification of Problematic Speech </h3>
+<h3> RedditBias: Problematic Comment Detector </h3>
 **(IN PROGRESS) **
 Summary: Preprocessed and vectorized 7,000+ examples of labelled text with Pandas Dataframes and Huggingface's BERT tokenizer, trained a BERT large language model to classify sentences with bias (racial, sexual orientation-wise, gender-wise, religious-wise). Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
 
