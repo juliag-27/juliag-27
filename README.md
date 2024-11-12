@@ -8,29 +8,6 @@ I'm a student at Brown University looking to learn more about AI, machine learni
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,pytorch,sklearn,matlab,vscode,bash,docker,github,idea)](https://skillicons.dev)
 
 
-Languages: 
-
-- Python (preferred)
-- Java
-- C++
-- HTML/CSS
-- x86 Assembly
-
-Proficient Libraries:
-
-- Scikit-learn
-- Pandas
-- Numpy
-- Pytorch
-- Matplotlib
-
-Coding environments:
-
-- VSCode
-- Jupyter Notebooks
-- Intellij IDEA
-- Google Colab
-
 <h2> Projects :seedling: </h2>
 <h3> RedditBias: Problematic Comment Detector </h3>
 **(IN PROGRESS) **
