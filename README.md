@@ -27,6 +27,7 @@ Summary: Initialized a population of Agents with exchanging energy mechanisms to
 
 <h2> Certifications :book: </h2>
 
+- AWS Certified Cloud Practitioner, Amazon (2025)
 - Machine Learning Foundations Certificate, Cornell (2024)
 - Social-Behavioral-Educational Researcher Practices, CITI Program (2024)
 
