@@ -1,6 +1,6 @@
 ## Hi, I'm Julia! :wave:
 <h1> About me </h1>
-I'm a student at Brown University looking to learn more about AI, machine learning, and data science. I'm a strong advocate of growth mindsets, leveraging opportunities, and creative thinking. Feel free to ask me about my current developments as a Break Through Tech fellow! Outside of classes, I'm excited about research in cognitive neuroscience, LLM projects, and doing pottery with the Pottery @ Brown leadership team. My pronouns are she/her. :)
+I'm a student at Brown University looking to learn more about AI, machine learning, and data science. I'm a strong advocate of growth mindsets, leveraging opportunities, and creative thinking. Outside of computational work, I'm excited about research in cognitive neuroscience, LLM projects, and doing pottery with the Pottery @ Brown leadership team. My pronouns are she/her. :)
 <br>
 
 <h2> Tech Stack :desktop_computer: </h2>
