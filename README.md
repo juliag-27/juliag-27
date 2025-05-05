@@ -1,5 +1,4 @@
 ## Hi, I'm Julia! :wave:
-<h1> About me </h1>
 I'm a student at Brown University looking to learn more about AI, machine learning, and data science. I'm a strong advocate of growth mindsets, leveraging opportunities, and creative thinking. Outside of computational work, I'm excited about research in cognitive neuroscience, LLM projects, and doing pottery with the Pottery @ Brown leadership team. My pronouns are she/her. :)
 <br>
 
@@ -24,14 +23,12 @@ Trained scikit-learn's Decision Tree and Linear Regressor models to predict the 
 <h3> Agents </h3>
 Initialized a population of Agents with exchanging energy mechanisms to model the complexity of community interactions. Studied key practices in object-oriented programming in Python.
 
-<h2> Awards :star2: </h2>
+<h2> Awards and Certifications :star2: </h2>
 
 - Women in Data Science Conference: Student Lightning Speaker
 - Bloomberg BPuzzled @ Brown 3rd Place
 - Science without Borders International Semifinalist
 - National Merit Semifinalist
-
-<h2> Certifications :book: </h2>
 
 - AWS Certified Cloud Practitioner, Amazon (2025)
 - Machine Learning Foundations Certificate, Cornell (2024)
