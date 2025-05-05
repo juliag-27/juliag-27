@@ -15,10 +15,10 @@ Implemented novel architecture with ~35,000 images extracted from open-source Go
 Predicted ADHD diagnosis and female/not female with functional connectivity matrices at 91% training accuracy using 1,213 fMRI data scans. Tools used: Python, Pandas, Numpy, Matplotlib, Pytorch Geometric, Scikit-learn, Google Colab
 
 <h3> RedditBias: Problematic Comment Detector </h3>
-Preprocessed and vectorized 7,000+ examples of labelled text with Pandas Dataframes and Huggingface's BERT tokenizer, trained a BERT large language model to classify sentences with bias (racial, sexual orientation-wise, gender-wise, religious-wise). Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
+Preprocessed and vectorized 7,000+ labeled texts and trained a BERT large language model to classify sentences with racial, orientation, gender, or religious bias. Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
 
 <h3> World Happiness Report 2018: Lifespan Analysis </h3>
-Trained scikit-learn's Decision Tree and Linear Regressor models to predict the life expectancy of country populations with subjective features such as Life Ladder (1-10, how "satisfied" an individual is with their life), trust in government, and freedom. Viewed model weights to identify Life Ladder to correlate most with lifespan, just under a country's GDP. Tools used: Jupyter, Python, Pandas, Scikit-learn, Matplotlib
+Predict the life expectancy of country populations with subjective (not objective!) life factors. Tools used: Jupyter, Python, Pandas, Scikit-learn, Matplotlib
 
 <h3> Agents </h3>
 Initialized a population of Agents with exchanging energy mechanisms to model the complexity of community interactions. Studied key practices in object-oriented programming in Python.
