@@ -8,17 +8,17 @@ I'm a student at Brown University looking to learn more about AI, machine learni
 
 
 <h2> Projects :seedling: </h2>
-<h3> Energy Efficiency of Buildings through Open Source Data </h3>
+<h3> Energy Efficiency - Pay too much utilities? </h3>
 Implemented novel architecture with ~35,000 images extracted from open-source Google API to classify buildings as energy-efficient or inefficient according to the EPC Registry. Tools used: Python, Pandas, GCP, Pytorch, DataLoader, Tqdm, Scikit-learn, Matplotlib, Google Colab
 
 <h3> Women's ADHD Diagnoses </h3>
 Predicted ADHD diagnosis and female/not female with functional connectivity matrices at 91% training accuracy using 1,213 fMRI data scans. Tools used: Python, Pandas, Numpy, Matplotlib, Pytorch Geometric, Scikit-learn, Google Colab
 
-<h3> RedditBias: Problematic Comment Detector </h3>
-Preprocessed and vectorized 7,000+ labeled texts and trained a BERT large language model to classify sentences with racial, orientation, gender, or religious bias. Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
+<h3> Problematic Comment Detector </h3>
+Inspired by the RedditBias repo, trained a BERT large language model to classify sentences with racial, orientation, gender, or religious bias. Tools used: Python, Pandas, Pytorch, Huggingface Transformers and Datasets libraries, DataLoader library, Scikit-learn, Matplotlib, Google Colab
 
-<h3> World Happiness Report 2018: Lifespan Analysis </h3>
-Predict the life expectancy of country populations with subjective (not objective!) life factors. Tools used: Jupyter, Python, Pandas, Scikit-learn, Matplotlib
+<h3> Lifespan Analysis </h3>
+Predict the life expectancy of country populations with subjective (not objective!) life factors from the 2018 World Happiness Report. Tools used: Jupyter, Python, Pandas, Scikit-learn, Matplotlib
 
 <h3> Agents </h3>
 Initialized a population of Agents with exchanging energy mechanisms to model the complexity of community interactions. Studied key practices in object-oriented programming in Python.
