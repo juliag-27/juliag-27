@@ -25,6 +25,7 @@ Initialized a population of Agents with exchanging energy mechanisms to model th
 
 <h2> Awards and Certifications :star2: </h2>
 
+- AI At Meta Hackathon 2025 Invitee (one of 50 invited participants)
 - Women in Data Science Conference: Student Lightning Speaker
 - Bloomberg BPuzzled @ Brown 3rd Place
 - Science without Borders International Semifinalist
